@@ -4,3 +4,8 @@ pasta
 
 car
 bike
+
+pizza
+card
+tea
+coffee
