@@ -4,3 +4,6 @@ pasta
 
 car
 bike
+
+pizza
+card
